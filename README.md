@@ -1,8 +1,9 @@
 # Does learning from language family help? A case study on a low-resource question answering task
 
-On paper publication, our code will be available here.....
+On paper publication, our  will be available here.....
 
-We are currently in process of uploading our models to Hugging Face...... 
+We are currently in process of uploading our models to Hugging Face...... and code to this repo.
+Some of our already uploaded models can be accessed using following links:
 
 ## Fine-Tuned Model at Hugging Face  🤗
 
